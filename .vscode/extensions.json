@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "visualstudioexptteam.vscodeintellicode",
+    "njpwerner.autodocstring",
+    "eamodio.gitlens"
+  ]
+}
