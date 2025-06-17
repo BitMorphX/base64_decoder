@@ -51,7 +51,7 @@ It enables fast offline transformation of raw Base64 input into WIF formats, Bit
 - [README.md](./README.md) – Main documentation  
 - [base64_decoder.py](./base64_decoder.py) – CLI decoder script  
 - [base64_decoder.bat](./base64_decoder.bat) – Windows launcher  
-- [ETHICS](./ETHICS) – Responsible usage statement  
+- [ETHICS](./ETHICS.md) – Responsible usage statement  
 - [RELEASE_v2.0.0.md](./RELEASE_v2.0.0.md) – This file  
 - [LICENSE](./LICENSE) – Apache 2.0 license  
 - [NOTICE](./NOTICE) – Attributions and legal mentions
