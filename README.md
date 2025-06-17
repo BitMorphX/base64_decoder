@@ -141,7 +141,7 @@ All responsibility lies solely with the end user.
 ## ⚖️ Ethical Use
 
 This tool is created strictly for **research and educational purposes**.  
-See [ETHICS](./ETHICS) for the full statement.
+See [ETHICS](./ETHICS.md) for the full statement.
 
 ---
 
